@@ -19,14 +19,14 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0225_000-J.yaml, hash: 'sha256:c973a6049620f33c6f70b3b8b3a8690cfac4aaf51f66609e462e589e7b254d51'}
+  - {seq: 0, filename: KR6q0225_000-J.yaml, hash: 'sha256:ad20cbbe309e927022d5e1d14cb18b6284a3f4d63e4d85440d7933769ad25d96'}
   - {seq: 1, filename: KR6q0225_001-J.yaml, hash: 'sha256:3ba55addfb2c4bf14ff8501df557935ff3f6765c07f646d389c69c5e750d5ff9'}
   - {seq: 2, filename: KR6q0225_002-J.yaml, hash: 'sha256:8a6839b93afde2760aca4d8365a6f7165b2ca3319dbe201eca20a051adbe00a9'}
   - {seq: 3, filename: KR6q0225_003-J.yaml, hash: 'sha256:e05c0826ace22e5f881241d1d600cd8d28859a77982f79417472109ba1239412'}
   - {seq: 4, filename: KR6q0225_004-J.yaml, hash: 'sha256:0197ef4150f9424592d540daf215c533b1a94c1b1dbd6a1e59798a11f0b2cbe2'}
   - {seq: 5, filename: KR6q0225_005-J.yaml, hash: 'sha256:506006668fae1232a93ac463cb70eea82c092d3965c43b707e8fc976f31f6299'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0225_000-J.markers.yaml, hash: 'sha256:3395e9daeef6f0b226b89fa3df1860159e5064d0af268f685f2c17b17dab1931'}
+  - {seq: 0, role: markers, filename: assets/KR6q0225_000-J.markers.yaml, hash: 'sha256:086d1cdd47c88d4187584f4daab17a999a604e09075f0990ef60966fa8d25efb'}
   - {seq: 1, role: markers, filename: assets/KR6q0225_001-J.markers.yaml, hash: 'sha256:44ea6c95b58346007c3594ce13dd16eb5c6a3fcd9b064ca0c41d32be870cebbb'}
   - {seq: 2, role: markers, filename: assets/KR6q0225_002-J.markers.yaml, hash: 'sha256:0a5af7cba8d67042134e879daab1c3aed9b42143b3fa042c4b9f1410d43c97a9'}
   - {seq: 3, role: markers, filename: assets/KR6q0225_003-J.markers.yaml, hash: 'sha256:289d08772657edb4725cde7a1b2644ff601287d4b3b2dbaed0e2ed62ea40985c'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0225_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘
@@ -2003,4 +2003,4 @@ table_of_contents:
   label: 商量石
   type: mulu
   level: 1
-hash: sha256:39535a7b6a817322374e0b4c0f7ddfac0f8b2f84dc265caa469c6f5d97a92d3f
+hash: sha256:b50feed264c80533d401cf72e4901f7e2e8fdd0e62c999e574b753cbbf9dc11a
